@@ -1,3 +1,9 @@
 pyrogram
 Tgcrypto
- 
+motor
+dnspython
+hachoir
+Pillow
+aiohttp
+pytz
+  
